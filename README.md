@@ -10,7 +10,7 @@
 <!-- Tech Stack -->
 <div align=center>
 	<h1>📚 Tech Stack 📚</h1>
-	<h3> Studying </h3>
+	<h3>🖋 Studying 🖋</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -31,7 +31,7 @@
 <br>
 
 <div align=center>
-	<h3> Tools </h3>
+	<h3>🔧 Tools 🔧</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
