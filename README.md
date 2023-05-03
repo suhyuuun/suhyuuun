@@ -54,7 +54,7 @@
 	<h1>🎈 About Me 🎈</h1>
 </div>
 <div align="center">
-	Notion : https://modern-moose-702.notion.site/925970eb25cf434aae5d737c881623a2
+	<!--Notion : https://modern-moose-702.notion.site/925970eb25cf434aae5d737c881623a2 -->
 	<br>
 	simple_portfoilo : https://suhyuuun.github.io/
 </div>
